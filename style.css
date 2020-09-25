@@ -1,0 +1,34 @@
+.heading {
+    font-size: 25px;
+    width: 100%;
+    margin: 0px;
+    box-shadow: 5px 5px 15px aquamarine;
+}
+
+.heading_div {
+    float: none;
+    background: darkmagenta;
+    padding: 10px;
+    border-radius: 20px;
+    color: white;
+    box-shadow: 5px 5px 15px black;
+}
+
+.heading_div2 {
+    font-size: 15px;
+}
+
+.copy_right_footer {
+    position: fixed;
+    background-color: gold;
+    color: black;
+    bottom: 0;
+    width: 100%;
+}
+
+canvas {
+    margin-top: 100px;
+    border-radius: 20px;
+    border: 5px solid blue;
+    box-shadow: 5px 5px 15px black;
+}
